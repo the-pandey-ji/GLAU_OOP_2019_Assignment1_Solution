@@ -13,6 +13,7 @@ public class Gravity {
 	// TODO 1: Create the main method
 	public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        float time = scanner.nextFloat();
 		/* TODO 2:
 		 *   a. Declare all your necessary variables inside main method.
 		 *   b. Declare a constant for 'gravity', assume the value to be 9.8
